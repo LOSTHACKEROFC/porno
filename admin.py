@@ -15,22 +15,22 @@ print("\x1b[1;39m—" * 60)
 
 
 
-print(f"""\x1b[38;5;117m  1\x1b[38;5;231m - Listeyi Çekmek [ Takipçili ] | \x1b[1;32m Güncel Aktif ✅ 
-\x1b[38;5;117m  2\x1b[38;5;231m - Listeyi Silmek [thomas.txt] | \x1b[1;32m Güncel Aktif ✅
-\x1b[38;5;117m  3\x1b[38;5;231m - Listeyi Taramak [ takipçili ]  | \x1b[1;32m Güncel Aktif ✅
-\x1b[38;5;117m  4\x1b[38;5;231m - İnsta [ Gmail ]  2012 | \x1b[1;32m Güncel Aktif ✅
-\x1b[38;5;117m  5\x1b[38;5;231m - Yopmail [ 2010- 2025 ] | \x1b[1;32m Güncel Aktif ✅
-\x1b[38;5;117m  6\x1b[38;5;231m - Gmail [ 2010- 2025 ] | \x1b[1;32m Güncel Aktif ✅
-\x1b[38;5;117m  7\x1b[38;5;231m - Aol [ 2012 - 2013 ] | \x1b[1;32m Güncel Aktif ✅
-\x1b[38;5;117m  8\x1b[38;5;231m - Outlook [ 2012 - 2013 ] | \x1b[1;32m Güncel Aktif ✅
-\x1b[38;5;117m  9\x1b[38;5;231m - Hotmail [ 2012 - 2013 ] | \x1b[1;32m Güncel Aktif ✅
-\x1b[38;5;117m  10\x1b[38;5;231m -  Instagram [ Username ] Tool | \x1b[1;32m Güncel Aktif ✅
-\x1b[38;5;117m  11\x1b[38;5;231m -  [ 2010 - 2019 ] %50 hit orani  | \x1b[1;32m Güncel Aktif ✅
-\x1b[38;5;117m  12\x1b[38;5;231m -  İnsta Reset Tool   | \x1b[1;32m Güncel Aktif ✅
-\x1b[38;5;117m  13\x1b[38;5;231m -  [ 2010 - 2025 ]  Takipcili  | \x1b[1;32m Güncel Aktif ✅
-\x1b[38;5;117m  14\x1b[38;5;231m -  [ 2014 - 2015 ]  Gmail  | \x1b[1;32m Güncel Aktif ✅
-\x1b[38;5;117m  15\x1b[38;5;231m -  [ 2014 - 2015 ]  Hotmail  | \x1b[1;32m Güncel Aktif ✅
-\x1b[38;5;117m  16\x1b[38;5;231m -  [ 2014 - 2015 ]  Outlook  | \x1b[1;32m Güncel Aktif ✅
+print(f"""\x1b[38;5;117m 1\x1b[38;5;231m - Retrieve List [ Followers ] | \x1b[1;32m Current Active ✅
+\x1b[38;5;117m 2\x1b[38;5;231m - Delete List [thomas.txt] | \x1b[1;32m Current Active ✅
+\x1b[38;5;117m 3\x1b[38;5;231m - Scan List [ Followers ] | \x1b[1;32m Current Active ✅
+\x1b[38;5;117m 4\x1b[38;5;231m - İnsta [ Gmail ] 2012 | \x1b[1;32m Current Active ✅
+\x1b[38;5;117m 5\x1b[38;5;231m - Yopmail [ 2010- 2025 ] | \x1b[1;32m Current Active ✅
+\x1b[38;5;117m 6\x1b[38;5;231m - Gmail [ 2010- 2025 ] | \x1b[1;32m Current Active ✅
+\x1b[38;5;117m 7\x1b[38;5;231m - Aol [ 2012 - 2013 ] | \x1b[1;32m Current Active ✅
+\x1b[38;5;117m 8\x1b[38;5;231m - Outlook [ 2012 - 2013 ] | \x1b[1;32m Current Active ✅
+\x1b[38;5;117m 9\x1b[38;5;231m - Hotmail [ 2012 - 2013 ] | \x1b[1;32m Current Active ✅
+\x1b[38;5;117m 10\x1b[38;5;231m - Instagram [ Username ] Tool | \x1b[1;32m Current Active ✅
+\x1b[38;5;117m 11\x1b[38;5;231m - [ 2010 - 2019 ] %50 hit rate | \x1b[1;32m Current Active ✅
+\x1b[38;5;117m 12\x1b[38;5;231m - İnsta Reset Tool | \x1b[1;32m Current Active ✅
+\x1b[38;5;117m 13\x1b[38;5;231m - [ 2010 - 2025 ] Followers | \x1b[1;32m Current Active ✅
+\x1b[38;5;117m 14\x1b[38;5;231m - [ 2014 - 2015 ] Gmail | \x1b[1;32m Current Active ✅
+\x1b[38;5;117m 15\x1b[38;5;231m - [ 2014 - 2015 ] Hotmail | \x1b[1;32m Current Active ✅
+\x1b[38;5;117m 16\x1b[38;5;231m - [ 2014 - 2015 ] Outlook | \x1b[1;32m Current Active ✅
 """)
 
 
